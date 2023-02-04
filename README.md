@@ -15,7 +15,7 @@ Tracks cooldown of your background weapons no matter what weapon. It ain&apos;t 
 
 ## Installation
 
-- Install the latest version from here.
+- Install the latest version [here](https://github.com/pdr-999/tof-overlay/releases/download/v1.0.0-beta/tof-overlay.zip) or [releases page](https://github.com/pdr-999/tof-overlay/releases).
 - (Optional) Install Oxanium.ttf font.
 
 ## Usage
