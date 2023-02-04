@@ -1,6 +1,7 @@
 # ToF Overlay - Overlay for Tower of Fantasy
 
 Shows an estimation of your background weapon&apos;s cooldown (last seen number). It ain&apos;t feature rich but it&apos;s better than counting in your head or checking manually.
+Left to right: Q E R
 
 ![image](https://user-images.githubusercontent.com/107941092/216790094-44998a4b-29d8-4173-b66a-d37fde2fa23e.png)
 
@@ -8,6 +9,7 @@ Shows an estimation of your background weapon&apos;s cooldown (last seen number)
 
 - 1080p monitor
 - In game shortcut is on (press F1)
+- Your keybind is Q E R
 
 ![Screenshot 2023-02-05 042108](https://user-images.githubusercontent.com/107941092/216790045-59472467-8e09-4fa8-89c6-228ffd08433a.png)
 - Fullscreen window
@@ -69,3 +71,4 @@ Message me on discord `pon-de-ring#0122` or submit an Issue with the correspondi
 - Track cooldown reduction / cooldown reset
 - Multi usage weapons such as Lin
 - I only spent $2 in this game so I can't test all weapons
+- Support custom keybinds
