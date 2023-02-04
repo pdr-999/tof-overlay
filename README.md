@@ -44,9 +44,9 @@ A: Nah trust me bro.
 
 Q: Does it do anything sus (virus/malware)?
 
-A: No, you can compile it yourself if you&apos;re unsure.
+A: No, you can bundle it yourself if you&apos;re unsure.
 
-## Compile it yourself
+## Bundle it yourself
 
 1. Download [Tesseract OCR](https://tesseract-ocr.github.io/tessdoc/) and install it to root folder
 2. Open `./identify.py` and modify this line
