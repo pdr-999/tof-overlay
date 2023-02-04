@@ -1,4 +1,4 @@
-# Tof Overlay
+# ToF Overlay - Overlay for Tower of Fantasy
 
 Shows an estimation of your background weapon&apos;s cooldown (last seen number). It ain&apos;t feature rich but it&apos;s better than counting in your head or checking manually.
 
